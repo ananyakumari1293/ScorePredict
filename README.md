@@ -12,11 +12,11 @@ Assignments Completed
 Sleep Hours
 Uses Linear Regression from Scikit-learn
 Includes:
-Model training
-Accuracy evaluation (R² Score)
-MAE (Mean Absolute Error)
-Data visualization using Matplotlib & Seaborn
-Applies realistic rule-based adjustments for better predictions
+Model training:
+-Accuracy evaluation (R² Score)
+-MAE (Mean Absolute Error)
+-Data visualization using Matplotlib & Seaborn
+-Applies realistic rule-based adjustments for better predictions
 
 
 
@@ -30,10 +30,10 @@ Scikit-learn
 
 
 📊 Machine Learning Concepts Used
-Linear Regression
-Train-Test Split
-R² Score
-Mean Absolute Error (MAE)
+-Linear Regression
+-Train-Test Split
+-R² Score
+-Mean Absolute Error (MAE)
 
 
 
